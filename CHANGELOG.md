@@ -1,5 +1,7 @@
 # Changelog
 
+## [0.1.1](https://github.com/spellbookx/turbo-monorepo-template/compare/v0.1.0...v0.1.1) (2026-01-31)
+
 ## 0.1.0 (2026-01-27)
 
 ### Features
